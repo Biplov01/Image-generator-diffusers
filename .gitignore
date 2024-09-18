@@ -1,0 +1,50 @@
+
+### `.gitignore`
+
+```gitignore
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environment
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Generated Images
+*.png
+
+# CSV Files
+*.csv
+
+# Log Files
+*.log
+
+# Environment files
+*.env
+
+# IDE-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
